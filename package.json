@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "knex": "^3.1.0",
+    "nodemon": "^3.1.14",
+    "pg": "^8.20.0"
+  },
+  "name": "sdi-knex-api-workshop",
+  "version": "1.0.0",
+  "description": "This is the start of a Knex & Postgres based API project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saberdog14/SDI-Knex-API-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saberdog14/SDI-Knex-API-Workshop/issues"
+  },
+  "homepage": "https://github.com/Saberdog14/SDI-Knex-API-Workshop#readme"
+}
